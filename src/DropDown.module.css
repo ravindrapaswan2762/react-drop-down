@@ -1,0 +1,35 @@
+*{
+  background-color: aqua;
+}
+.container {
+    
+    font-family: Arial, sans-serif;
+    margin-left: 40%;
+    margin-top: 5%;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .select {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .selectedOption {
+    width: 12vw;
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #ccc;
+    background-color: white;
+  }
+  
+  .hovered {
+    border-color: #007bff;
+  }
+  
+  .para{
+    margin-top: 14%;
+  }
